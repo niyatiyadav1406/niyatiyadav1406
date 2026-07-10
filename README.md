@@ -1,5 +1,28 @@
-# 💫 About Me:
- Projects I've Worked On<br>1.  Food Grains Management System<br>Built a REST API using Spring Boot and MySQL<br>Implemented CRUD operations for food grains such as Rice, Wheat, and Dal<br>Used layered architecture (Controller, Service, Repository)<br>2. Smart Waste Management System (WasteSmart AI)<br>Designed an AI-based waste monitoring concept<br>Planned optimized garbage collection routes using Dijkstra's Algorithm<br>Implemented bin priority scheduling using Greedy Algorithms<br>Created a responsive dashboard using HTML, CSS, and JavaScript<br>3. Travel Shield – Travel Insurance Management System<br>Developed a web application using Flask and MySQL<br>Features include policy management, customer records, and claims handling<br>Designed the database schema and ER diagram<br>4. AI Video Automation Projects<br>Created AI-generated educational and storytelling short videos<br>Used AI tools for script writing, image generation, voice-over, and video editing<br>Focused on engaging short-form content for social media
+# 💫 Hi 👋, I'm Niyati Yadav 
+**A passionate Artificial intelligence and data science **
+
+Email Me 👉 ✉️ **niyatiyadav1406@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+Projects I've Worked On
+1. Food Grains Management System
+Built a REST API using Spring Boot and MySQL
+Implemented CRUD operations for food grains such as Rice, Wheat, and Dal
+Used layered architecture (Controller, Service, Repository)
+2. Smart Waste Management System (WasteSmart AI)
+Designed an AI-based waste monitoring concept
+Planned optimized garbage collection routes using Dijkstra's Algorithm
+Implemented bin priority scheduling using Greedy Algorithms
+Created a responsive dashboard using HTML, CSS, and JavaScript
+3. Travel Shield – Travel Insurance Management System
+Developed a web application using Flask and MySQL
+Features include policy management, customer records, and claims handling
+Designed the database schema and ER diagram
+4. AI Video Automation Projects
+Created AI-generated educational and storytelling short videos
+Used AI tools for script writing, image generation, voice-over, and video editing
+Focused on engaging short-form content for social media
+
+
 
 
 ## 🌐 Socials:
